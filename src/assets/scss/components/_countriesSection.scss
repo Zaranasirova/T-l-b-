@@ -1,0 +1,67 @@
+.countries-section {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  .countries-header {
+    height: 62px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    @media (max-width: 599px) {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 16px;
+    }
+    .countries-title {
+      font-size: 32px;
+      font-weight: 500;
+      line-height: 39px;
+      letter-spacing: 0px;
+      color: #302e33;
+    }
+    .country-dropdown {
+      width: 293px;
+      height: 62px;
+      background-color: #f3f3f4;
+      border: 1px solid #f3f3f4;
+      border-radius: 12px;
+      padding: 16px;
+      @media (max-width: 599px) {
+        width: 100%;
+      }
+      .dropdown-wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .dropdown-texts {
+          display: flex;
+          flex-direction: column;
+          gap: 12px;
+          .dropdown-label {
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 100%;
+            letter-spacing: 0.4px;
+            color: #5e5d60;
+          }
+          .selected-text {
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 100%;
+            letter-spacing: 0.24px;
+          }
+        }
+        .dropdown-icons {
+          width: 20px;
+          height: 20px;
+          fill: #757477;
+        }
+      }
+    }
+  }
+  .countries-body {
+    @media (max-width: 599px) {
+      padding-top: 64px;
+    }
+  }
+}
