@@ -1,0 +1,9 @@
+.dropdown-data{
+    display: flex;
+    gap: 24px;
+    
+    @media(max-width:900px){
+        flex-direction: column;
+        width: 100%;
+    }
+}

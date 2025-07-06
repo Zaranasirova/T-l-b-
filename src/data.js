@@ -55,3 +55,130 @@ export const countriesData = [
     image: Britaniya,
   },
 ];
+
+
+
+export const universities= [
+{
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  {
+    name: 'Alanya Alaaddin Keybukat Üniversitesi',
+    city: 'Antalya',
+    major: 'Neft-qaz mühəndisliyi',
+    duration: '4 il',
+    fee: '150$'
+  },
+  
+
+]
+
+
+export const  faqData = [
+  {
+    question: 'Açıq sual: Lorem Ipsum is simply dummy text of the printing and typesetting industry?',
+    answer: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+{
+    question: 'Açıq sual: Lorem Ipsum is simply dummy text of the printing and typesetting industry?',
+    answer: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    question: 'Açıq sual: Lorem Ipsum is simply dummy text of the printing and typesetting industry?',
+    answer: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    question: 'Açıq sual: Lorem Ipsum is simply dummy text of the printing and typesetting industry?',
+    answer: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    question: 'Açıq sual: Lorem Ipsum is simply dummy text of the printing and typesetting industry?',
+    answer: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    question: 'Açıq sual: Lorem Ipsum is simply dummy text of the printing and typesetting industry?',
+    answer: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    question: 'Açıq sual: Lorem Ipsum is simply dummy text of the printing and typesetting industry?',
+    answer: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    question: 'Açıq sual: Lorem Ipsum is simply dummy text of the printing and typesetting industry?',
+    answer: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+];
